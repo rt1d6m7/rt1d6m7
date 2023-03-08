@@ -25,7 +25,7 @@ I am a DevOps engineer with experience in implementing and managing cloud-based 
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
+<img src="https://i.giphy.com/media/yl3XErRq8qmmA/giphy.webp" align="center" style="width: 100%" />
 </div>  
 
 
