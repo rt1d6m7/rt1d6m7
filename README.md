@@ -19,7 +19,7 @@ I am a DevOps engineer with experience in implementing and managing cloud-based 
 - ❓ Ask me about anything related to DevOps and related technologies  
   
 
-- 🗣️ Favourite Phrases: Valar Morghulis <> Valar Dohaeris  
+- 🗣️ Favourite Phrases: THE ALL is Mind; The Universe is Mental
 
 
 </td><td valign="top" width="50%">
