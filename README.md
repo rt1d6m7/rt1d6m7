@@ -7,31 +7,7 @@
 I am a DevOps engineer with experience in implementing and managing cloud-based solutions using AWS. I have expertise in configuration management, automation, monitoring, and deployment of applications. I have worked with various tools such as Terraform, Docker, Kubernetes, and Jenkins. I am passionate about building scalable and reliable systems that help businesses achieve their goals.  
   
 
-<br/>  
-
-
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
-
-- 🌱 I’m currently learning Flux GitOps  
-  
-
-- ❓ Ask me about anything related to DevOps and related technologies  
-  
-
-- 🗣️ Favourite Phrases: THE ALL is Mind; The Universe is Mental
-
-
-</td><td valign="top" width="50%">
-
-<div align="center">
-<img src="https://i.giphy.com/media/yl3XErRq8qmmA/giphy.webp" align="center" style="width: 100%" />
-</div>  
-
-
-</td></tr></table>  
-
-<br/>  
+<br/>   
 
 
 ## Languages and Tools   
@@ -63,17 +39,6 @@ I am a DevOps engineer with experience in implementing and managing cloud-based 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" height="30" width="42" alt="github logo"  />
 </div>
 <br/>  
-
-
-## Github Stats  
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=true&username=rt1d6m7" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dark&hide_border=true&username=rt1d6m7" height="150" alt="languages graph"  />
-</div>
-
-<br/>  
-
-  
 
 <br/>  
 
