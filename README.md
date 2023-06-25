@@ -15,7 +15,6 @@ I am a DevOps engineer with experience in implementing and managing cloud-based 
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
 ![DigitalOcean](https://img.shields.io/badge/-DigitalOcean-000?&logo=DigitalOcean)
-![IBM Cloud](https://img.shields.io/badge/-IBM-000?&logo=ibmcloud)
 ![Docker](https://img.shields.io/badge/-Docker-000?&logo=Docker)
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-000?&logo=Kubernetes)
 ![Linux](https://img.shields.io/badge/-Linux-000?&logo=Linux)
