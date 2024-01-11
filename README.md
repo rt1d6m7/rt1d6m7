@@ -1,9 +1,9 @@
 ## Hey 👋, I'm Rijo Thomas  
   
 ### Glad to see you here!  
-I am a DevOps engineer with experience in implementing and managing cloud-based solutions using AWS. I have expertise in configuration management, automation, monitoring, and deployment of applications. I have worked with various tools such as Terraform, Docker, Kubernetes, and Jenkins. I am passionate about building scalable and reliable systems that help businesses achieve their goals.  
+I am a DevOps engineer with experience in implementing and managing cloud-based solutions. I have expertise in configuration management, automation, monitoring, and deployment of applications. I am passionate about building scalable and reliable systems that help businesses achieve their goals. 
 
-## Languages and Tools   
+## Technologies and Tools   
 ![AWS](https://img.shields.io/badge/-AWS-000?&logo=Amazon-AWS&logoColor=F90)
 ![Azure](https://img.shields.io/badge/-Azure-000?&logo=microsoftazure)
 ![GCP](https://img.shields.io/badge/-GCP-000?&logo=googlecloud)
